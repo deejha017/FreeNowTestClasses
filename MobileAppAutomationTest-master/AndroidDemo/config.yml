@@ -2,7 +2,7 @@
 # Build configuration for Circle CI
 #
 
-
+version: 2
 general:
   artifacts:
     - /home/ubuntu/app/app/build/outputs/apk/
